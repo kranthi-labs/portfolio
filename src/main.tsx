@@ -1,7 +1,7 @@
 // import { StrictMode } from 'react'
 import "@fontsource/inter";
 import "@fontsource/jetbrains-mono";
-import "./styles/globals.css";
+import "@/styles/global.css";
 
 import ReactDOM from "react-dom/client";
 
